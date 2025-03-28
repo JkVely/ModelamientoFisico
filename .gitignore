@@ -175,7 +175,7 @@ cython_debug/
 .pypirc
 
 # Carpeta del profesor
-./MFC/
+MFC/
 
 # obsidian
 .obsidian/
